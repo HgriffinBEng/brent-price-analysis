@@ -1,4 +1,4 @@
-# Brent Crude Price Dashboard
+# Brent Crude Price Analysis
 
 ## Overview
 A small project for the analysis and plotting of brent oil prices.
